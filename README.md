@@ -29,7 +29,7 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+
 
 ### 📈 Data Visualization
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
