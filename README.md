@@ -47,7 +47,7 @@
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visualstudiocode&logoColor=white)
 
 ---
 
