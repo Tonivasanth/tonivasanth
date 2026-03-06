@@ -20,12 +20,34 @@
 
 ## 💻 Tech Stack
 
+### 📊 Data Analysis
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![PowerBI](https://img.shields.io/badge/PowerBI-black?logo=powerbi)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-purple)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+
+### 📈 Data Visualization
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau)
 ![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
+
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikit-learn)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code)
 
 ---
 
